@@ -1,0 +1,6 @@
+// Transactions
+// START TRANSACTION;
+// COMMIT;
+// ROLLBACK;
+// SET AUTOCOMMIT = 0;
+// SET AUTOCOMMIT = 1;
